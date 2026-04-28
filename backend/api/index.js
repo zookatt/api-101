@@ -20,7 +20,6 @@ function saveBooks(books) {
   fs.writeFileSync(DATA_FILE, JSON.stringify(books, null, 2));
 }
 
-// ==================== RUTAS ====================
 
 // GET /books → obtener todos los libros
 app.get("/books", (req, res) => {
