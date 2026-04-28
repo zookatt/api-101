@@ -1,0 +1,16 @@
+{
+  "name": "books-api",
+  "version": "1.0.0",
+  "description": "API REST sencilla para practicar, usando Node.js, Express y un archivo JSON (books.json) como almacenamiento.",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+

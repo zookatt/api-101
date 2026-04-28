@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949
+    },
+    {
+      "id": 2,
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "year": 1945
+    },
+    {
+      "id": 3,
+      "title": "Homage to Catalonia",
+      "author": "George Orwell",
+      "year": 1938
+    },
+    {
+      "id": 4,
+      "title": "Future Shock",
+      "author": "Alvin Toffler",
+      "year": 1970
+    },
+    {
+      "id": 5,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "year": 1932
+    }
+  ]
+  

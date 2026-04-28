@@ -69,11 +69,11 @@ La API estara disponible en `http://localhost:3000`
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| GET | `/api/users` | Obtener todos los usuarios |
-| GET | `/api/users/:id` | Obtener usuario por ID |
-| POST | `/api/users` | Crear usuario |
-| PUT | `/api/users/:id` | Actualizar usuario |
-| DELETE | `/api/users/:id` | Eliminar usuario |
+| GET | `/api/books` | Obtener todos los usuarios |
+| GET | `/api/books/:id` | Obtener usuario por ID |
+| POST | `/api/books` | Crear usuario |
+| PUT | `/api/books/:id` | Actualizar usuario |
+| DELETE | `/api/books/:id` | Eliminar usuario |
 | GET | `/api/reset` | Restablecer datos al estado inicial |
 
 **💡 Nota sobre la persistencia de datos:**
